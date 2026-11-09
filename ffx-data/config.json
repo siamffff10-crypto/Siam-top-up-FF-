@@ -2,7 +2,20 @@
   "logo": null,
   "ffBanner": null,
   "banners": null,
-  "quick": null,
+  "quick": [
+    {
+      "label": "Telegram",
+      "url": ""
+    },
+    {
+      "label": "Join Group",
+      "url": ""
+    },
+    {
+      "label": "YouTube",
+      "url": "https://www.youtube.com/@siamfffYT"
+    }
+  ],
   "images": {
     "pop": "img-pop-1794246788010.png"
   },
