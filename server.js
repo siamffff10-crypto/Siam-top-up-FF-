@@ -50,7 +50,7 @@ const DEFAULT_BANNERS = ['default:Banner 1.jpg', 'default:Banner 2.jpg', 'defaul
 const DEFAULT_QUICK = [
   { label: 'Telegram', url: '' },
   { label: 'Join Group', url: '' },
-  { label: 'YouTube', url: '' }
+  { label: 'YouTube', url: '' }https://www.youtube.com/@siamfffYT
 ];
 const MAX_BANNERS = 10;
 
