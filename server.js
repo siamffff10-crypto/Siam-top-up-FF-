@@ -41,6 +41,9 @@ const DEFAULT_PACKAGES = [
   { label: '3000 FF LIKE- 15 দিন এ পাবেন', name: '3000 FF LIKE', price: 450 },
   { label: '6000 FF LIKE- 30 দিন এ পাবেন', name: '6000 FF LIKE', price: 900 },
   { label: '12000 FF LIKE- 60 দিন এ পাবেন', name: '12000 FF LIKE', price: 1800 }
+  { label: '5000 FF LIKE- 25 দিন এ পাবেন', name: '5000 FF LIKE', price: 1500 }
+];
+
 ];
 
 const DEFAULT_BANNERS = ['default:Banner 1.jpg', 'default:Banner 2.jpg', 'default:Banner 3.jpg'];
