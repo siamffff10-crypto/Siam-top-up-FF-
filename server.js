@@ -58,6 +58,7 @@ const PRODUCTS = [
   { key: 'wl',  view: 'wlView',  hash: 'weekly-lite',      grid: 'wlPkGrid',  img: 'wl' },
   { key: 'lu',  view: 'luView',  hash: 'level-up-pass',    grid: 'luPkGrid',  img: 'lu' },
   { key: 'in',  view: 'inView',  hash: 'indonesia-server', grid: 'inPkGrid',  img: 'in' },
+  { key: 'evo', view: 'evoView', hash: 'evo-access', grid: 'evoPkGrid', img: 'evo' },  
   { key: 'uc',  view: 'ucView',  hash: 'uid-checker',      grid: null,        img: 'uc' }
 ];
 
@@ -70,6 +71,7 @@ const IMAGES = {
   lu:       { file: 'LEVEL UP PASS.jpg',      prefix: 'img-lu' },
   in:       { file: 'INDONESIA SERVER.jpg',   prefix: 'img-in' },
   uc:       { file: 'uid checker.jpg',        prefix: 'img-uc' },
+  evo: { file: 'EVO ACCESS.jpg', prefix: 'img-evo' },
   pop:      { file: 'Notification.jpg',       prefix: 'img-pop' }
 };
 const IMG_KEYS = Object.keys(IMAGES);
